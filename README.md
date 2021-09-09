@@ -20,3 +20,7 @@ alert("真TM牛");
 * html
 * css
 * js
+
+[假装我有个人主页](http://www.google.com)
+
+![假装这里有自拍](Liu.jpg)
