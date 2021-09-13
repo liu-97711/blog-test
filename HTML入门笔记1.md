@@ -65,4 +65,8 @@ PS：其中的 &copy; 在HTML中代表版权标识
 * em 代表语气上强调某内容
 * strong 代表实质强调的内容
 * code 用来包裹代码
-* quote 引用  <quote></quote>内联引用  <blockquote></blockquote>块级引用
+* quote 引用  
+  ```HTML
+  <quote></quote>内联引用 
+  <blockquote></blockquote>块级引用
+  ```
