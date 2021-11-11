@@ -110,3 +110,10 @@ let obj = Object.create(common)  //一开始就指定obj的原型为common
 obj.name = 'lmy'
 Object.assign(obj,{'age':24})
 ```
+
+## 'name' in obj和obj.hasOwnProperty('name') 的区别
+
+```JavaScript
+//都是查看属性是不是在对象里的方法
+//前者自身属性和共有属性都返回true，后者仅仅是自身属性才返回true
+```
